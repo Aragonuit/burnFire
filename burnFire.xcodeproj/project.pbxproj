@@ -13,6 +13,23 @@
 		8DB29E501C7203810016B8A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E4E1C7203810016B8A8 /* Main.storyboard */; };
 		8DB29E521C7203810016B8A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E511C7203810016B8A8 /* Assets.xcassets */; };
 		8DB29E551C7203810016B8A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E531C7203810016B8A8 /* LaunchScreen.storyboard */; };
+		8DB29E6D1C7203E40016B8A8 /* campFire01.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E5C1C7203E40016B8A8 /* campFire01.gif */; };
+		8DB29E6E1C7203E40016B8A8 /* campFire02.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E5D1C7203E40016B8A8 /* campFire02.gif */; };
+		8DB29E6F1C7203E40016B8A8 /* campFire03.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E5E1C7203E40016B8A8 /* campFire03.gif */; };
+		8DB29E701C7203E40016B8A8 /* campFire04.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E5F1C7203E40016B8A8 /* campFire04.gif */; };
+		8DB29E711C7203E40016B8A8 /* campFire05.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E601C7203E40016B8A8 /* campFire05.gif */; };
+		8DB29E721C7203E40016B8A8 /* campFire06.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E611C7203E40016B8A8 /* campFire06.gif */; };
+		8DB29E731C7203E40016B8A8 /* campFire07.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E621C7203E40016B8A8 /* campFire07.gif */; };
+		8DB29E741C7203E40016B8A8 /* campFire08.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E631C7203E40016B8A8 /* campFire08.gif */; };
+		8DB29E751C7203E40016B8A8 /* campFire09.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E641C7203E40016B8A8 /* campFire09.gif */; };
+		8DB29E761C7203E40016B8A8 /* campFire10.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E651C7203E40016B8A8 /* campFire10.gif */; };
+		8DB29E771C7203E40016B8A8 /* campFire11.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E661C7203E40016B8A8 /* campFire11.gif */; };
+		8DB29E781C7203E40016B8A8 /* campFire12.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E671C7203E40016B8A8 /* campFire12.gif */; };
+		8DB29E791C7203E40016B8A8 /* campFire13.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E681C7203E40016B8A8 /* campFire13.gif */; };
+		8DB29E7A1C7203E40016B8A8 /* campFire14.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E691C7203E40016B8A8 /* campFire14.gif */; };
+		8DB29E7B1C7203E40016B8A8 /* campFire15.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E6A1C7203E40016B8A8 /* campFire15.gif */; };
+		8DB29E7C1C7203E40016B8A8 /* campFire16.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E6B1C7203E40016B8A8 /* campFire16.gif */; };
+		8DB29E7D1C7203E40016B8A8 /* campFire17.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8DB29E6C1C7203E40016B8A8 /* campFire17.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +43,23 @@
 		8DB29E511C7203810016B8A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8DB29E541C7203810016B8A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8DB29E561C7203810016B8A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DB29E5C1C7203E40016B8A8 /* campFire01.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire01.gif; sourceTree = "<group>"; };
+		8DB29E5D1C7203E40016B8A8 /* campFire02.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire02.gif; sourceTree = "<group>"; };
+		8DB29E5E1C7203E40016B8A8 /* campFire03.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire03.gif; sourceTree = "<group>"; };
+		8DB29E5F1C7203E40016B8A8 /* campFire04.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire04.gif; sourceTree = "<group>"; };
+		8DB29E601C7203E40016B8A8 /* campFire05.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire05.gif; sourceTree = "<group>"; };
+		8DB29E611C7203E40016B8A8 /* campFire06.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire06.gif; sourceTree = "<group>"; };
+		8DB29E621C7203E40016B8A8 /* campFire07.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire07.gif; sourceTree = "<group>"; };
+		8DB29E631C7203E40016B8A8 /* campFire08.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire08.gif; sourceTree = "<group>"; };
+		8DB29E641C7203E40016B8A8 /* campFire09.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire09.gif; sourceTree = "<group>"; };
+		8DB29E651C7203E40016B8A8 /* campFire10.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire10.gif; sourceTree = "<group>"; };
+		8DB29E661C7203E40016B8A8 /* campFire11.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire11.gif; sourceTree = "<group>"; };
+		8DB29E671C7203E40016B8A8 /* campFire12.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire12.gif; sourceTree = "<group>"; };
+		8DB29E681C7203E40016B8A8 /* campFire13.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire13.gif; sourceTree = "<group>"; };
+		8DB29E691C7203E40016B8A8 /* campFire14.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire14.gif; sourceTree = "<group>"; };
+		8DB29E6A1C7203E40016B8A8 /* campFire15.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire15.gif; sourceTree = "<group>"; };
+		8DB29E6B1C7203E40016B8A8 /* campFire16.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire16.gif; sourceTree = "<group>"; };
+		8DB29E6C1C7203E40016B8A8 /* campFire17.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = campFire17.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +96,23 @@
 				8DB29E491C7203810016B8A8 /* AppDelegate.m */,
 				8DB29E4B1C7203810016B8A8 /* ViewController.h */,
 				8DB29E4C1C7203810016B8A8 /* ViewController.m */,
+				8DB29E5C1C7203E40016B8A8 /* campFire01.gif */,
+				8DB29E5D1C7203E40016B8A8 /* campFire02.gif */,
+				8DB29E5E1C7203E40016B8A8 /* campFire03.gif */,
+				8DB29E5F1C7203E40016B8A8 /* campFire04.gif */,
+				8DB29E601C7203E40016B8A8 /* campFire05.gif */,
+				8DB29E611C7203E40016B8A8 /* campFire06.gif */,
+				8DB29E621C7203E40016B8A8 /* campFire07.gif */,
+				8DB29E631C7203E40016B8A8 /* campFire08.gif */,
+				8DB29E641C7203E40016B8A8 /* campFire09.gif */,
+				8DB29E651C7203E40016B8A8 /* campFire10.gif */,
+				8DB29E661C7203E40016B8A8 /* campFire11.gif */,
+				8DB29E671C7203E40016B8A8 /* campFire12.gif */,
+				8DB29E681C7203E40016B8A8 /* campFire13.gif */,
+				8DB29E691C7203E40016B8A8 /* campFire14.gif */,
+				8DB29E6A1C7203E40016B8A8 /* campFire15.gif */,
+				8DB29E6B1C7203E40016B8A8 /* campFire16.gif */,
+				8DB29E6C1C7203E40016B8A8 /* campFire17.gif */,
 				8DB29E4E1C7203810016B8A8 /* Main.storyboard */,
 				8DB29E511C7203810016B8A8 /* Assets.xcassets */,
 				8DB29E531C7203810016B8A8 /* LaunchScreen.storyboard */,
@@ -137,9 +188,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DB29E731C7203E40016B8A8 /* campFire07.gif in Resources */,
+				8DB29E6E1C7203E40016B8A8 /* campFire02.gif in Resources */,
+				8DB29E751C7203E40016B8A8 /* campFire09.gif in Resources */,
+				8DB29E7A1C7203E40016B8A8 /* campFire14.gif in Resources */,
 				8DB29E551C7203810016B8A8 /* LaunchScreen.storyboard in Resources */,
+				8DB29E7D1C7203E40016B8A8 /* campFire17.gif in Resources */,
+				8DB29E6F1C7203E40016B8A8 /* campFire03.gif in Resources */,
 				8DB29E521C7203810016B8A8 /* Assets.xcassets in Resources */,
+				8DB29E7B1C7203E40016B8A8 /* campFire15.gif in Resources */,
+				8DB29E6D1C7203E40016B8A8 /* campFire01.gif in Resources */,
+				8DB29E701C7203E40016B8A8 /* campFire04.gif in Resources */,
+				8DB29E761C7203E40016B8A8 /* campFire10.gif in Resources */,
+				8DB29E711C7203E40016B8A8 /* campFire05.gif in Resources */,
+				8DB29E781C7203E40016B8A8 /* campFire12.gif in Resources */,
+				8DB29E7C1C7203E40016B8A8 /* campFire16.gif in Resources */,
+				8DB29E741C7203E40016B8A8 /* campFire08.gif in Resources */,
+				8DB29E771C7203E40016B8A8 /* campFire11.gif in Resources */,
+				8DB29E791C7203E40016B8A8 /* campFire13.gif in Resources */,
 				8DB29E501C7203810016B8A8 /* Main.storyboard in Resources */,
+				8DB29E721C7203E40016B8A8 /* campFire06.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
